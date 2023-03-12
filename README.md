@@ -1,4 +1,4 @@
-# UserManagementtFastApi
+# UserManagementFastApi
 
 
 
@@ -13,7 +13,7 @@ create the virtual env in your current folder and activate the env folder
 
 
 ## step3
-install the requirments.txt file in env using command "pip install -r requirments.txt".
+install the requirments.txt file in env using command "pip install -r requirments.txt.
 
 ## step4
 download the tableplus and and create the connection with sqllite and choose folder "user.db". from usermanagementapi folder.
